@@ -1,2 +1,3 @@
 1. Programátor by mal občas cvičiť, výjsť na slnko, mať časté prestávky a piť často tekutiny.
 2. Sústrediť sa na určitý cieľ a nestráviť veľa času nad maličkosťami.
+3. Kód má byť konzistentný, jednoduchý a zrozumiteľný aby ho pochopili aj ostatný programátori.

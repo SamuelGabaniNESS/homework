@@ -3,3 +3,4 @@
 3. Kód má byť konzistentný, jednoduchý a zrozumiteľný aby ho pochopili aj ostatný programátori.
 4. Dostať sa do The Zone - okolo 3 hodín keď sa programátor plne sústredí na svoju prácu.
 5. Stále sa učiť niečo nové a debugovať.
+6. Tímová spolupráca, rozprávať sa o progrese alebo problémoch s programovaním danej feature-y.
